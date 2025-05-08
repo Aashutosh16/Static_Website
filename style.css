@@ -1,0 +1,2074 @@
+.hotel {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .hotel .div {
+    background-color: #ffffff;
+    overflow: hidden;
+    width: 1920px;
+    height: 14409px;
+    position: relative;
+  }
+  
+  .hotel .overlap {
+    position: absolute;
+    width: 1920px;
+    height: 2480px;
+    top: 9584px;
+    left: 0;
+  }
+  
+  .hotel .frame {
+    position: absolute;
+    width: 1920px;
+    height: 1966px;
+    top: 514px;
+    left: 0;
+  }
+  
+  .hotel .overlap-group {
+    position: absolute;
+    width: 1920px;
+    height: 2299px;
+    top: 1485px;
+    left: 0;
+  }
+  
+  .hotel .frame-2 {
+    position: absolute;
+    width: 1920px;
+    height: 2134px;
+    top: 165px;
+    left: 0;
+    background-color: #f5f5eb;
+  }
+  
+  .hotel .frame-3 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 34px;
+    position: absolute;
+    top: 730px;
+    left: 1099px;
+  }
+  
+  .hotel .div-wrapper {
+    position: relative;
+    width: 587px;
+    height: 52px;
+    overflow: hidden;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-color: #a7a7a7;
+  }
+  
+  .hotel .text-wrapper {
+    position: absolute;
+    top: -10px;
+    left: 20px;
+    opacity: 0.4;
+    font-family: "Poppins", Helvetica;
+    font-weight: 300;
+    font-style: italic;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 69.9px;
+    white-space: nowrap;
+  }
+  
+  .hotel .frame-4 {
+    position: absolute;
+    width: 587px;
+    height: 160px;
+    top: 1027px;
+    left: 1099px;
+    border: 1px solid;
+    border-color: #a7a7a7;
+  }
+  
+  .hotel .overlap-group-2 {
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    top: 142px;
+    left: 568px;
+  }
+  
+  .hotel .vector {
+    position: absolute;
+    width: 14px;
+    height: 14px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .hotel .img {
+    position: absolute;
+    width: 9px;
+    height: 9px;
+    top: 6px;
+    left: 6px;
+    object-fit: cover;
+  }
+  
+  .hotel .button {
+    all: unset;
+    box-sizing: border-box;
+    display: inline-flex;
+    justify-content: center;
+    gap: 10px;
+    top: 1292px;
+    left: 1099px;
+    border-color: var(--bda-078);
+    align-items: center;
+    padding: 16px 32px;
+    position: absolute;
+    border-radius: 50px;
+    border: 1px solid;
+  }
+  
+  .hotel .text-wrapper-2 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1.00px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 300;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .hotel .vector-2 {
+    position: relative;
+    width: 62.5px;
+    height: 7.36px;
+    margin-right: -0.50px;
+    object-fit: cover;
+  }
+  
+  .hotel .p {
+    position: absolute;
+    top: 1210px;
+    left: 1140px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 300;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .hotel .frame-5 {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    top: 1213px;
+    left: 1099px;
+    background-color: #ffffff;
+    border: 1px solid;
+    border-color: #a7a7a7;
+  }
+  
+  .hotel .vector-3 {
+    position: absolute;
+    width: 547px;
+    height: 1278px;
+    top: 371px;
+    left: 0;
+  }
+  
+  .hotel .def-a-wrapper {
+    position: absolute;
+    width: 430px;
+    height: 481px;
+    top: 0;
+    left: 230px;
+    background-color: #d5d5d5;
+  }
+  
+  .hotel .def-a {
+    position: absolute;
+    width: 430px;
+    height: 481px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .hotel .jj-wrapper {
+    position: absolute;
+    width: 430px;
+    height: 297px;
+    top: 0;
+    left: 745px;
+    background-color: #d5d5d5;
+  }
+  
+  .hotel .jj {
+    width: 430px;
+    height: 297px;
+    top: 0;
+    left: 0;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .hotel .img-wrapper {
+    position: absolute;
+    width: 430px;
+    height: 390px;
+    top: 0;
+    left: 1260px;
+    background-color: #d5d5d5;
+  }
+  
+  .hotel .jj-2 {
+    width: 430px;
+    height: 390px;
+    top: 0;
+    left: 0;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .hotel .group-wrapper {
+    position: absolute;
+    width: 880px;
+    height: 880px;
+    top: 178px;
+    left: 519px;
+    background-image: url(https://c.animaapp.com/JVPYvugT/img/vector-1.svg);
+    background-size: 100% 100%;
+  }
+  
+  .hotel .group {
+    position: relative;
+    width: 842px;
+    height: 140px;
+    top: 646px;
+    left: 22px;
+  }
+  
+  .hotel .text-wrapper-3 {
+    position: absolute;
+    top: 0;
+    left: 212px;
+    font-family: "Brand-Brand", Helvetica;
+    font-weight: 400;
+    color: var(--x-04-3c-53);
+    font-size: 200px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .hotel .text-wrapper-4 {
+    position: absolute;
+    top: 2px;
+    left: 0;
+    font-family: "Brand-Brand", Helvetica;
+    font-weight: 400;
+    color: var(--x-04-3c-53);
+    font-size: 105.7px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .hotel .porttitor-elementum {
+    position: absolute;
+    width: 640px;
+    top: 1089px;
+    left: 231px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 300;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 34px;
+  }
+  
+  .hotel .text-wrapper-5 {
+    position: absolute;
+    width: 640px;
+    top: 1089px;
+    left: 1045px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 300;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 34px;
+  }
+  
+  .hotel .frame-6 {
+    position: absolute;
+    width: 1920px;
+    height: 1056px;
+    top: 0;
+    left: 0;
+    background-color: var(--x-04-3c-53);
+  }
+  
+  .hotel .overlap-2 {
+    position: absolute;
+    width: 1008px;
+    height: 1056px;
+    top: 0;
+    left: 0;
+  }
+  
+  .hotel .vector-4 {
+    position: absolute;
+    width: 817px;
+    height: 717px;
+    top: 0;
+    left: 0;
+  }
+  
+  .hotel .frame-7 {
+    position: absolute;
+    width: 145px;
+    height: 1056px;
+    top: 0;
+    left: 0;
+    background-color: #bda078;
+  }
+  
+  .hotel .vector-5 {
+    position: absolute;
+    width: 929px;
+    height: 1056px;
+    top: 0;
+    left: 0;
+  }
+  
+  .hotel .text-wrapper-6 {
+    position: absolute;
+    top: 537px;
+    left: 741px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 26.1px;
+    letter-spacing: 0;
+    line-height: 44.4px;
+    white-space: nowrap;
+  }
+  
+  .hotel .text-wrapper-7 {
+    top: 372px;
+    left: 701px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 500;
+    color: var(--x-04-3c-53);
+    font-size: 20px;
+    line-height: 34px;
+    position: absolute;
+    letter-spacing: 0;
+    white-space: nowrap;
+  }
+  
+  .hotel .text-wrapper-8 {
+    position: absolute;
+    top: 406px;
+    left: 532px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 500;
+    color: var(--x-04-3c-53);
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 34px;
+    white-space: nowrap;
+  }
+  
+  .hotel .text-wrapper-9 {
+    position: absolute;
+    top: 503px;
+    left: 460px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 500;
+    color: var(--bda-078);
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 34px;
+    white-space: nowrap;
+  }
+  
+  .hotel .text-wrapper-10 {
+    top: 620px;
+    left: 584px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 500;
+    color: var(--bda-078);
+    font-size: 20px;
+    line-height: 34px;
+    position: absolute;
+    letter-spacing: 0;
+    white-space: nowrap;
+  }
+  
+  .hotel .text-wrapper-11 {
+    top: 469px;
+    left: 929px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 500;
+    color: var(--bda-078);
+    font-size: 20px;
+    line-height: 34px;
+    position: absolute;
+    letter-spacing: 0;
+    white-space: nowrap;
+  }
+  
+  .hotel .text-wrapper-12 {
+    position: absolute;
+    top: 305px;
+    left: 808px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 500;
+    color: var(--bda-078);
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 34px;
+    white-space: nowrap;
+  }
+  
+  .hotel .text-wrapper-13 {
+    position: absolute;
+    top: 141px;
+    left: 731px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 500;
+    color: var(--bda-078);
+    font-size: 34.1px;
+    letter-spacing: 0;
+    line-height: 58px;
+    white-space: nowrap;
+  }
+  
+  .hotel .vector-6 {
+    position: absolute;
+    width: 85px;
+    height: 84px;
+    top: 603px;
+    left: 779px;
+  }
+  
+  .hotel .overlap-3 {
+    position: absolute;
+    width: 852px;
+    height: 955px;
+    top: 0;
+    left: 1068px;
+  }
+  
+  .hotel .vector-7 {
+    position: absolute;
+    width: 719px;
+    height: 955px;
+    top: 0;
+    left: 133px;
+  }
+  
+  .hotel .overlap-group-wrapper {
+    position: absolute;
+    width: 694px;
+    height: 212px;
+    top: 675px;
+    left: 0;
+  }
+  
+  .hotel .overlap-group-3 {
+    position: relative;
+    width: 700px;
+    height: 212px;
+  }
+  
+  .hotel .group-2 {
+    position: absolute;
+    width: 700px;
+    height: 212px;
+    top: 0;
+    left: 0;
+  }
+  
+  .hotel .text-wrapper-14 {
+    top: 0;
+    left: 0;
+    font-family: "Brand-Brand", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 123.2px;
+    line-height: 123.2px;
+    position: absolute;
+    letter-spacing: 0;
+    white-space: nowrap;
+  }
+  
+  .hotel .text-wrapper-15 {
+    position: absolute;
+    top: 126px;
+    left: 222px;
+    font-family: "Brand-Brand", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 123.2px;
+    letter-spacing: 0;
+    line-height: 123.2px;
+    white-space: nowrap;
+  }
+  
+  .hotel .text-wrapper-16 {
+    position: absolute;
+    top: 127px;
+    left: 123px;
+    font-family: "Brand-Brand", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 76.9px;
+    letter-spacing: 0;
+    line-height: 76.9px;
+    white-space: nowrap;
+  }
+  
+  .hotel .vector-8 {
+    position: absolute;
+    width: 112px;
+    height: 1px;
+    top: 132px;
+    left: 574px;
+    object-fit: cover;
+  }
+  
+  .hotel .vector-9 {
+    position: absolute;
+    width: 93px;
+    height: 1px;
+    top: 132px;
+    left: 3px;
+    object-fit: cover;
+  }
+  
+  .hotel .overlap-4 {
+    position: absolute;
+    width: 1920px;
+    height: 2050px;
+    top: 0;
+    left: 0;
+  }
+  
+  .hotel .vector-10 {
+    position: absolute;
+    width: 1708px;
+    height: 1708px;
+    top: 223px;
+    left: 119px;
+  }
+  
+  .hotel .frame-8 {
+    position: absolute;
+    width: 1920px;
+    height: 1016px;
+    top: 0;
+    left: 0;
+    background-image: url(https://c.animaapp.com/JVPYvugT/img/receptiontop.png);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .hotel .fi-bar-chart {
+    position: absolute;
+    width: 59px;
+    height: 59px;
+    top: 52px;
+    left: 1762px;
+  }
+  
+  .hotel .navbar {
+    display: inline-flex;
+    align-items: center;
+    gap: 80px;
+    position: absolute;
+    top: 66px;
+    left: 752px;
+  }
+  
+  .hotel .text-wrapper-17 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1.00px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .hotel .overlap-5 {
+    position: absolute;
+    width: 1492px;
+    height: 822px;
+    top: 194px;
+    left: 428px;
+  }
+  
+  .hotel .overlap-6 {
+    position: absolute;
+    width: 1492px;
+    height: 822px;
+    top: 0;
+    left: 0;
+  }
+  
+  .hotel .frame-9 {
+    position: absolute;
+    width: 821px;
+    height: 822px;
+    top: 0;
+    left: 671px;
+    background-color: #043c53;
+  }
+  
+  .hotel .overlap-group-4 {
+    position: relative;
+    height: 822px;
+  }
+  
+  .hotel .text-wrapper-18 {
+    position: absolute;
+    width: 317px;
+    top: 402px;
+    left: 112px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 300;
+    color: var(--ffffff);
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 34px;
+  }
+  
+  .hotel .button-2 {
+    all: unset;
+    box-sizing: border-box;
+    display: inline-flex;
+    justify-content: center;
+    gap: 10px;
+    top: 630px;
+    left: 112px;
+    border-color: var(--bda-078);
+    align-items: center;
+    padding: 16px 32px;
+    position: absolute;
+    border-radius: 50px;
+    border: 1px solid;
+  }
+  
+  .hotel .text-wrapper-19 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1.00px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 300;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .hotel .vector-11 {
+    position: relative;
+    width: 93.5px;
+    height: 7.36px;
+    margin-right: -0.50px;
+    object-fit: cover;
+  }
+  
+  .hotel .vector-12 {
+    position: absolute;
+    width: 621px;
+    height: 724px;
+    top: 0;
+    left: 200px;
+  }
+  
+  .hotel .YOUR-IMAGE-HERE {
+    position: absolute;
+    width: 821px;
+    height: 822px;
+    top: 0;
+    left: 0;
+    mix-blend-mode: multiply;
+  }
+  
+  .hotel .frame-10 {
+    width: 56px;
+    height: 822px;
+    top: 0;
+    left: 765px;
+    position: absolute;
+    background-color: #bda078;
+  }
+  
+  .hotel .text-wrapper-20 {
+    position: absolute;
+    top: 157px;
+    left: 0;
+    font-family: "Brand-Brand", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 248px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .hotel .text-wrapper-21 {
+    top: 380px;
+    left: 182px;
+    font-family: "Brand-Brand", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 248px;
+    line-height: normal;
+    position: absolute;
+    letter-spacing: 0;
+    white-space: nowrap;
+  }
+  
+  .hotel .text-wrapper-22 {
+    position: absolute;
+    top: 83px;
+    left: 14px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 4.00px;
+    line-height: normal;
+  }
+  
+  .hotel .text-wrapper-23 {
+    top: 360px;
+    left: 2px;
+    color: #ffffff;
+    font-size: 119.5px;
+    position: absolute;
+    font-family: "Brand-Brand", Helvetica;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .hotel .vector-13 {
+    position: absolute;
+    width: 353px;
+    height: 53px;
+    top: 54px;
+    left: 106px;
+  }
+  
+  .hotel .vector-14 {
+    position: absolute;
+    width: 96px;
+    height: 4px;
+    top: 955px;
+    left: 106px;
+  }
+  
+  .hotel .vector-15 {
+    position: absolute;
+    width: 95px;
+    height: 4px;
+    top: 955px;
+    left: 218px;
+  }
+  
+  .hotel .vector-16 {
+    position: absolute;
+    width: 96px;
+    height: 4px;
+    top: 955px;
+    left: 329px;
+  }
+  
+  .hotel .frame-11 {
+    position: absolute;
+    width: 1920px;
+    height: 846px;
+    top: 1204px;
+    left: 0;
+  }
+  
+  .hotel .frame-12 {
+    position: absolute;
+    width: 396px;
+    height: 140px;
+    top: 0;
+    left: 228px;
+  }
+  
+  .hotel .text-wrapper-24 {
+    position: absolute;
+    width: 185px;
+    top: 59px;
+    left: 179px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 300;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 26px;
+  }
+  
+  .hotel .text-wrapper-25 {
+    position: absolute;
+    top: 18px;
+    left: 179px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 34px;
+    white-space: nowrap;
+  }
+  
+  .hotel .frame-13 {
+    position: absolute;
+    width: 140px;
+    height: 140px;
+    top: 0;
+    left: 0;
+    background-color: #d9d9d9;
+  }
+  
+  .hotel .img-2 {
+    position: absolute;
+    width: 140px;
+    height: 140px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .hotel .frame-14 {
+    position: absolute;
+    width: 396px;
+    height: 140px;
+    top: 0;
+    left: 761px;
+  }
+  
+  .hotel .frame-15 {
+    position: absolute;
+    width: 396px;
+    height: 140px;
+    top: 0;
+    left: 1294px;
+  }
+  
+  .hotel .frame-16 {
+    position: absolute;
+    width: 414px;
+    height: 478px;
+    top: 296px;
+    left: 226px;
+    background-color: #d9d9d9;
+  }
+  
+  .hotel .overlap-group-5 {
+    position: relative;
+    height: 478px;
+    background-image: url(https://c.animaapp.com/JVPYvugT/img/receptiontop-1.png);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .hotel .text-wrapper-26 {
+    top: 187px;
+    left: 111px;
+    color: #ffffff;
+    font-size: 78.3px;
+    text-align: center;
+    position: absolute;
+    font-family: "Brand-Brand", Helvetica;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .hotel .text-wrapper-27 {
+    position: absolute;
+    top: 268px;
+    left: 102px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: var(--ffffff);
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 26px;
+    white-space: nowrap;
+  }
+  
+  .hotel .overlap-wrapper {
+    position: absolute;
+    width: 412px;
+    height: 478px;
+    top: 368px;
+    left: 752px;
+    background-color: #d9d9d9;
+  }
+  
+  .hotel .overlap-7 {
+    height: 478px;
+    background-image: url(https://c.animaapp.com/JVPYvugT/img/def-2-a.png);
+    position: relative;
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .hotel .text-wrapper-28 {
+    position: absolute;
+    top: 187px;
+    left: 83px;
+    font-family: "Brand-Brand", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 78.3px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .hotel .frame-17 {
+    position: absolute;
+    width: 414px;
+    height: 478px;
+    top: 254px;
+    left: 1276px;
+    background-color: #d9d9d9;
+  }
+  
+  .hotel .overlap-8 {
+    position: relative;
+    height: 478px;
+    background-image: url(https://c.animaapp.com/JVPYvugT/img/jj--2-.png);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .hotel .text-wrapper-29 {
+    top: 187px;
+    left: 64px;
+    color: #ffffff;
+    font-size: 78.3px;
+    text-align: center;
+    position: absolute;
+    font-family: "Brand-Brand", Helvetica;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .hotel .frame-18 {
+    position: absolute;
+    width: 1920px;
+    height: 1172px;
+    top: 2204px;
+    left: 0;
+  }
+  
+  .hotel .overlap-9 {
+    position: relative;
+    width: 1459px;
+    height: 1124px;
+    top: 48px;
+    left: 231px;
+  }
+  
+  .hotel .overlap-10 {
+    position: absolute;
+    width: 1459px;
+    height: 1124px;
+    top: 0;
+    left: 0;
+  }
+  
+  .hotel .frame-19 {
+    position: absolute;
+    width: 591px;
+    height: 556px;
+    top: 568px;
+    left: 745px;
+    background-color: #d5d5d5;
+  }
+  
+  .hotel .jj-3 {
+    width: 591px;
+    height: 556px;
+    top: 0;
+    left: 0;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .hotel .group-3 {
+    position: absolute;
+    width: 1459px;
+    height: 619px;
+    top: 0;
+    left: 0;
+  }
+  
+  .hotel .group-4 {
+    position: absolute;
+    width: 820px;
+    height: 128px;
+    top: 0;
+    left: 273px;
+  }
+  
+  .hotel .text-wrapper-30 {
+    position: absolute;
+    top: 19px;
+    left: 0;
+    font-family: "Brand-Brand", Helvetica;
+    font-weight: 400;
+    color: var(--bda-078);
+    font-size: 129.5px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .hotel .text-wrapper-31 {
+    top: 18px;
+    left: 797px;
+    color: var(--x-04-3c-53);
+    font-size: 129.5px;
+    position: absolute;
+    font-family: "Brand-Brand", Helvetica;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .hotel .frame-20 {
+    position: absolute;
+    width: 183px;
+    height: 128px;
+    top: 0;
+    left: 587px;
+    background-color: #d9d9d9;
+  }
+  
+  .hotel .img-3 {
+    width: 183px;
+    height: 128px;
+    top: 0;
+    left: 0;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .hotel .group-5 {
+    position: absolute;
+    width: 1461px;
+    height: 128px;
+    top: 162px;
+    left: 0;
+  }
+  
+  .hotel .text-wrapper-32 {
+    position: absolute;
+    top: 14px;
+    left: 217px;
+    font-family: "Brand-Brand", Helvetica;
+    font-weight: 400;
+    color: var(--x-04-3c-53);
+    font-size: 129.5px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .hotel .frame-21 {
+    position: absolute;
+    width: 183px;
+    height: 128px;
+    top: 0;
+    left: 0;
+    background-color: #d9d9d9;
+  }
+  
+  .hotel .group-6 {
+    position: absolute;
+    width: 897px;
+    height: 128px;
+    top: 327px;
+    left: 131px;
+  }
+  
+  .hotel .text-wrapper-33 {
+    top: 18px;
+    left: 0;
+    color: var(--x-04-3c-53);
+    font-size: 129.5px;
+    position: absolute;
+    font-family: "Brand-Brand", Helvetica;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .hotel .text-wrapper-34 {
+    top: 27px;
+    left: 728px;
+    color: var(--x-04-3c-53);
+    font-size: 129.5px;
+    white-space: nowrap;
+    position: absolute;
+    font-family: "Brand-Brand", Helvetica;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .hotel .frame-22 {
+    position: absolute;
+    width: 183px;
+    height: 128px;
+    top: 0;
+    left: 510px;
+    background-color: #d9d9d9;
+  }
+  
+  .hotel .group-7 {
+    position: absolute;
+    width: 1116px;
+    height: 128px;
+    top: 491px;
+    left: 123px;
+  }
+  
+  .hotel .family-culture {
+    position: absolute;
+    top: 18px;
+    left: 227px;
+    font-family: "Brand-Regular", Helvetica;
+    font-weight: 400;
+    color: transparent;
+    font-size: 129.5px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .hotel .span {
+    color: #014762;
+  }
+  
+  .hotel .text-wrapper-35 {
+    color: #bda078;
+  }
+  
+  .hotel .lorem-ipsum-dolor {
+    width: 457px;
+    top: 741px;
+    left: 123px;
+    color: #000000;
+    position: absolute;
+    font-family: "Poppins", Helvetica;
+    font-weight: 300;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 34px;
+  }
+  
+  .hotel .button-3 {
+    all: unset;
+    box-sizing: border-box;
+    display: inline-flex;
+    justify-content: center;
+    gap: 10px;
+    top: 1062px;
+    left: 123px;
+    border-color: var(--bda-078);
+    align-items: center;
+    padding: 16px 32px;
+    position: absolute;
+    border-radius: 50px;
+    border: 1px solid;
+  }
+  
+  .hotel .frame-23 {
+    position: absolute;
+    width: 1920px;
+    height: 756px;
+    top: 3564px;
+    left: 0;
+  }
+  
+  .hotel .frame-24 {
+    position: absolute;
+    width: 754px;
+    height: 755px;
+    top: -1px;
+    left: 0;
+    background-color: var(--x-04-3c-53);
+  }
+  
+  .hotel .overlap-group-6 {
+    position: relative;
+    height: 755px;
+  }
+  
+  .hotel .lorem-ipsum-dolor-2 {
+    width: 436px;
+    top: 125px;
+    left: 155px;
+    color: #ffffff;
+    position: absolute;
+    font-family: "Poppins", Helvetica;
+    font-weight: 300;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 34px;
+  }
+  
+  .hotel .button-4 {
+    all: unset;
+    box-sizing: border-box;
+    display: flex;
+    width: 219px;
+    justify-content: center;
+    gap: 6px;
+    top: 471px;
+    left: 155px;
+    border-color: var(--bda-078);
+    align-items: center;
+    padding: 16px 32px;
+    position: absolute;
+    border-radius: 50px;
+    border: 1px solid;
+  }
+  
+  .hotel .text-wrapper-36 {
+    font-weight: 400;
+    color: #ffffff;
+    position: relative;
+    width: fit-content;
+    margin-top: -1.00px;
+    font-family: "Poppins", Helvetica;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .hotel .vector-17 {
+    position: absolute;
+    width: 754px;
+    height: 508px;
+    top: 247px;
+    left: 0;
+  }
+  
+  .hotel .frame-25 {
+    width: 56px;
+    height: 755px;
+    top: 0;
+    left: 0;
+    position: absolute;
+    background-color: #bda078;
+  }
+  
+  .hotel .frame-26 {
+    position: absolute;
+    width: 1166px;
+    height: 755px;
+    top: 0;
+    left: 754px;
+    background-color: #d5d5d5;
+  }
+  
+  .hotel .vector-wrapper {
+    height: 755px;
+    background-image: url(https://c.animaapp.com/JVPYvugT/img/sasha-kaunas-xeaaoiznfv8-unsplash.png);
+    position: relative;
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .hotel .vector-18 {
+    position: absolute;
+    width: 1048px;
+    height: 158px;
+    top: 550px;
+    left: 60px;
+  }
+  
+  .hotel .frame-27 {
+    position: absolute;
+    width: 1920px;
+    height: 1056px;
+    top: 6668px;
+    left: 0;
+    background-color: var(--x-04-3c-53);
+  }
+  
+  .hotel .overlap-11 {
+    position: relative;
+    height: 1056px;
+    background-image: url(https://c.animaapp.com/JVPYvugT/img/leaf-shadow-1.png);
+    background-size: 100% 100%;
+  }
+  
+  .hotel .frame-28 {
+    width: 1457px;
+    height: 208px;
+    top: 415px;
+    left: 232px;
+    position: absolute;
+    background-color: #bda078;
+  }
+  
+  .hotel .vector-19 {
+    position: absolute;
+    width: 993px;
+    height: 1056px;
+    top: 0;
+    left: 927px;
+  }
+  
+  .hotel .edvin-johansson-wrapper {
+    position: absolute;
+    width: 1198px;
+    height: 626px;
+    top: 199px;
+    left: 361px;
+    background-color: #d5d5d5;
+  }
+  
+  .hotel .edvin-johansson {
+    position: absolute;
+    width: 1198px;
+    height: 626px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .hotel .text-wrapper-37 {
+    position: absolute;
+    top: 754px;
+    left: 584px;
+    font-family: "Brand-Brand", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 200px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .hotel .text-wrapper-38 {
+    position: absolute;
+    top: 160px;
+    left: 535px;
+    font-family: "Brand-Brand", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 200px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .hotel .frame-29 {
+    position: absolute;
+    width: 1920px;
+    height: 706px;
+    top: 5714px;
+    left: 0;
+  }
+  
+  .hotel .text-wrapper-39 {
+    position: absolute;
+    top: 38px;
+    left: 1156px;
+    font-family: "Brand-Brand", Helvetica;
+    font-weight: 400;
+    color: var(--x-04-3c-53);
+    font-size: 180px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .hotel .text-wrapper-40 {
+    top: 438px;
+    left: 212px;
+    font-family: "Brand-Brand", Helvetica;
+    font-weight: 400;
+    color: var(--bda-078);
+    font-size: 180px;
+    line-height: normal;
+    position: absolute;
+    letter-spacing: 0;
+    white-space: nowrap;
+  }
+  
+  .hotel .text-wrapper-41 {
+    width: 299px;
+    top: 16px;
+    left: 233px;
+    position: absolute;
+    font-family: "Poppins", Helvetica;
+    font-weight: 300;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 34px;
+  }
+  
+  .hotel .text-wrapper-42 {
+    width: 441px;
+    top: 379px;
+    left: 1260px;
+    position: absolute;
+    font-family: "Poppins", Helvetica;
+    font-weight: 300;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 34px;
+  }
+  
+  .hotel .manuel-moreno-wrapper {
+    position: absolute;
+    width: 357px;
+    height: 206px;
+    top: 15px;
+    left: 662px;
+    background-color: #d5d5d5;
+  }
+  
+  .hotel .manuel-moreno {
+    position: absolute;
+    width: 357px;
+    height: 206px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .hotel .istock-wrapper {
+    position: absolute;
+    width: 244px;
+    height: 332px;
+    top: 335px;
+    left: 841px;
+    background-color: #d5d5d5;
+  }
+  
+  .hotel .istock {
+    position: absolute;
+    width: 244px;
+    height: 332px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .hotel .frame-30 {
+    position: absolute;
+    width: 1920px;
+    height: 1500px;
+    top: 7884px;
+    left: 0;
+  }
+  
+  .hotel .overlap-12 {
+    position: absolute;
+    width: 1918px;
+    height: 799px;
+    top: 902px;
+    left: 2px;
+  }
+  
+  .hotel .frame-31 {
+    position: absolute;
+    width: 1918px;
+    height: 550px;
+    top: 249px;
+    left: 0;
+    background-color: #f5f5eb;
+  }
+  
+  .hotel .frame-32 {
+    position: absolute;
+    width: 277px;
+    height: 390px;
+    top: 122px;
+    left: 104px;
+    background-color: #d5d5d5;
+  }
+  
+  .hotel .img-4 {
+    width: 277px;
+    height: 390px;
+    top: 0;
+    left: 0;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .hotel .frame-33 {
+    position: absolute;
+    width: 277px;
+    height: 390px;
+    top: 0;
+    left: 462px;
+    background-color: #d5d5d5;
+  }
+  
+  .hotel .frame-34 {
+    position: absolute;
+    width: 277px;
+    height: 390px;
+    top: 122px;
+    left: 820px;
+    background-color: #d5d5d5;
+  }
+  
+  .hotel .masseria-wrapper {
+    position: absolute;
+    width: 277px;
+    height: 390px;
+    top: 0;
+    left: 1178px;
+    background-color: #d5d5d5;
+  }
+  
+  .hotel .christian-lambert-wrapper {
+    position: absolute;
+    width: 277px;
+    height: 390px;
+    top: 122px;
+    left: 1536px;
+    background-color: #d5d5d5;
+  }
+  
+  .hotel .text-wrapper-43 {
+    width: 316px;
+    top: 506px;
+    left: 1053px;
+    position: absolute;
+    font-family: "Poppins", Helvetica;
+    font-weight: 300;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 34px;
+  }
+  
+  .hotel .text-wrapper-44 {
+    position: absolute;
+    top: 131px;
+    left: 814px;
+    font-family: "Brand-Brand", Helvetica;
+    font-weight: 400;
+    color: var(--x-04-3c-53);
+    font-size: 200px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .hotel .text-wrapper-45 {
+    top: 521px;
+    left: 217px;
+    color: var(--x-04-3c-53);
+    font-size: 200px;
+    position: absolute;
+    font-family: "Brand-Brand", Helvetica;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .hotel .frame-35 {
+    position: absolute;
+    width: 700px;
+    height: 244px;
+    top: 80px;
+    left: 0;
+    background-color: #d5d5d5;
+  }
+  
+  .hotel .jj-4 {
+    position: absolute;
+    width: 700px;
+    height: 244px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .hotel .frame-36 {
+    position: absolute;
+    width: 345px;
+    height: 320px;
+    top: 432px;
+    left: 1470px;
+    background-color: #d5d5d5;
+  }
+  
+  .hotel .istock-2 {
+    position: absolute;
+    width: 345px;
+    height: 320px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .hotel .overlap-13 {
+    position: absolute;
+    width: 978px;
+    height: 786px;
+    top: 12310px;
+    left: -4px;
+  }
+  
+  .hotel .overlap-14 {
+    position: absolute;
+    width: 629px;
+    height: 786px;
+    top: 0;
+    left: 349px;
+  }
+  
+  .hotel .frame-37 {
+    position: absolute;
+    width: 482px;
+    height: 620px;
+    top: 166px;
+    left: 147px;
+    background-color: #d5d5d5;
+  }
+  
+  .hotel .edvin-johansson-2 {
+    position: absolute;
+    width: 482px;
+    height: 620px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .hotel .request-info {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Brand-Brand", Helvetica;
+    font-weight: 400;
+    color: var(--x-04-3c-53);
+    font-size: 130.6px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .hotel .frame-38 {
+    position: absolute;
+    width: 358px;
+    height: 268px;
+    top: 518px;
+    left: 0;
+    background-color: #d5d5d5;
+  }
+  
+  .hotel .jj-5 {
+    width: 354px;
+    height: 268px;
+    top: 0;
+    left: 4px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .hotel .frame-39 {
+    position: absolute;
+    width: 1920px;
+    height: 896px;
+    top: 4560px;
+    left: 0;
+  }
+  
+  .hotel .overlap-15 {
+    position: relative;
+    width: 1919px;
+    height: 1142px;
+    top: -246px;
+    left: 1px;
+  }
+  
+  .hotel .frame-40 {
+    position: absolute;
+    width: 1918px;
+    height: 734px;
+    top: 0;
+    left: 0;
+    background-color: #f5f5eb;
+  }
+  
+  .hotel .text-wrapper-46 {
+    position: absolute;
+    top: 245px;
+    left: 698px;
+    font-family: "Brand-Brand", Helvetica;
+    font-weight: 400;
+    color: var(--x-04-3c-53);
+    font-size: 100px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .hotel .text-wrapper-47 {
+    top: 347px;
+    left: 900px;
+    color: var(--bda-078);
+    font-size: 56px;
+    position: absolute;
+    font-family: "Brand-Brand", Helvetica;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .hotel .text-wrapper-48 {
+    top: 347px;
+    left: 967px;
+    color: var(--bda-078);
+    font-size: 100px;
+    position: absolute;
+    font-family: "Brand-Brand", Helvetica;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .hotel .porttitor-elementum-2 {
+    width: 511px;
+    top: 515px;
+    left: 698px;
+    position: absolute;
+    font-family: "Poppins", Helvetica;
+    font-weight: 300;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 34px;
+  }
+  
+  .hotel .priscilla-du-preez-wrapper {
+    position: absolute;
+    width: 374px;
+    height: 604px;
+    top: 246px;
+    left: 228px;
+    background-color: #d5d5d5;
+  }
+  
+  .hotel .priscilla-du-preez {
+    position: absolute;
+    width: 374px;
+    height: 604px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .hotel .frame-41 {
+    position: absolute;
+    width: 603px;
+    height: 626px;
+    top: 516px;
+    left: 1316px;
+    background-color: #d5d5d5;
+  }
+  
+  .hotel .jj-6 {
+    width: 603px;
+    height: 625px;
+    top: 1px;
+    left: 0;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .hotel .frame-42 {
+    position: absolute;
+    width: 1920px;
+    height: 1068px;
+    top: 13352px;
+    left: 0;
+  }
+  
+  .hotel .overlap-16 {
+    position: relative;
+    height: 1060px;
+    top: 8px;
+  }
+  
+  .hotel .frame-43 {
+    position: absolute;
+    width: 1920px;
+    height: 529px;
+    top: 531px;
+    left: 0;
+    background-color: var(--x-04-3c-53);
+  }
+  
+  .hotel .text-wrapper-49 {
+    position: absolute;
+    width: 269px;
+    top: 263px;
+    left: 227px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 300;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 26px;
+  }
+  
+  .hotel .text-wrapper-50 {
+    position: absolute;
+    top: 443px;
+    left: 1110px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 300;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 26px;
+    white-space: nowrap;
+  }
+  
+  .hotel .text-wrapper-51 {
+    position: absolute;
+    top: 443px;
+    left: 1291px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 300;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 26px;
+    white-space: nowrap;
+  }
+  
+  .hotel .copyright {
+    position: absolute;
+    top: 443px;
+    left: 227px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: transparent;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 26px;
+    white-space: nowrap;
+  }
+  
+  .hotel .text-wrapper-52 {
+    font-weight: 300;
+    color: #ffffff;
+  }
+  
+  .hotel .text-wrapper-53 {
+    font-weight: 500;
+    color: #bda078;
+  }
+  
+  .hotel .text-wrapper-54 {
+    position: absolute;
+    width: 269px;
+    top: 263px;
+    left: 732px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 300;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 26px;
+  }
+  
+  .hotel .text-wrapper-55 {
+    top: 222px;
+    left: 732px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 20px;
+    line-height: 34px;
+    position: absolute;
+    letter-spacing: 0;
+    white-space: nowrap;
+  }
+  
+  .hotel .text-wrapper-56 {
+    position: absolute;
+    top: 222px;
+    left: 227px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 34px;
+    white-space: nowrap;
+  }
+  
+  .hotel .text-wrapper-57 {
+    position: absolute;
+    top: 222px;
+    left: 1110px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 34px;
+    white-space: nowrap;
+  }
+  
+  .hotel .button-5 {
+    all: unset;
+    box-sizing: border-box;
+    display: inline-flex;
+    justify-content: center;
+    gap: 10px;
+    top: 277px;
+    left: 1463px;
+    border-color: var(--bda-078);
+    align-items: center;
+    padding: 16px 32px;
+    position: absolute;
+    border-radius: 50px;
+    border: 1px solid;
+  }
+  
+  .hotel .button-6 {
+    all: unset;
+    box-sizing: border-box;
+    display: flex;
+    width: 336px;
+    height: 62px;
+    gap: 10px;
+    top: 277px;
+    left: 1110px;
+    border-color: #ffffff;
+    align-items: center;
+    padding: 16px 32px;
+    position: absolute;
+    border-radius: 50px;
+    border: 1px solid;
+  }
+  
+  .hotel .text-wrapper-58 {
+    position: relative;
+    width: fit-content;
+    font-family: "Poppins", Helvetica;
+    font-weight: 300;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .hotel .frame-44 {
+    position: absolute;
+    width: 1460px;
+    height: 596px;
+    top: 91px;
+    left: 230px;
+    background-color: #d5d5d5;
+  }
+  
+  .hotel .manuel-moreno-2 {
+    position: absolute;
+    width: 1460px;
+    height: 596px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .hotel .vector-20 {
+    position: absolute;
+    width: 1437px;
+    height: 215px;
+    top: 0;
+    left: 242px;
+  }
+  
+  .hotel .twitter-wrapper {
+    position: absolute;
+    width: 44px;
+    height: 44px;
+    top: 845px;
+    left: 789px;
+    border-radius: 38.85px;
+    border: 1.17px solid;
+    border-color: var(--x-9-5a-3ae);
+  }
+  
+  .hotel .twitter {
+    position: absolute;
+    width: 16px;
+    height: 13px;
+    top: 16px;
+    left: 14px;
+  }
+  
+  .hotel .fi-heart-wrapper {
+    position: absolute;
+    width: 44px;
+    height: 44px;
+    top: 845px;
+    left: 732px;
+    border-radius: 38.85px;
+    border: 1.17px solid;
+    border-color: var(--x-9-5a-3ae);
+  }
+  
+  .hotel .fi-heart {
+    position: absolute;
+    width: 22px;
+    height: 22px;
+    top: 12px;
+    left: 11px;
+  }
+  
